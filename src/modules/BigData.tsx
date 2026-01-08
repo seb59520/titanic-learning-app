@@ -1,4 +1,3 @@
-import { useState } from 'react';
 import { Passenger, ModuleAnswers, Answer } from '../types';
 import { DataTable } from '../components/DataTable';
 import { Filters, FilterState } from '../components/Filters';
