@@ -1,4 +1,4 @@
-import { Answer, ModuleAnswers } from '../types';
+import { ModuleAnswers } from '../types';
 import './Questions.css';
 
 interface Question {

@@ -29,7 +29,6 @@ female,36,1,120.00,S,oui`;
 
 export function parseCSV(): Passenger[] {
   const lines = CSV_DATA.trim().split('\n');
-  const headers = lines[0].split(',');
   const passengers: Passenger[] = [];
 
   for (let i = 1; i < lines.length; i++) {
