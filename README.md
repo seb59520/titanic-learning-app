@@ -2,6 +2,18 @@
 
 Application React complète pour apprendre le Big Data, la Data Science et le Machine Learning avec le dataset Titanic.
 
+🌐 **Application en ligne :** https://titaniclearning.netlify.app
+
+## 📚 Travaux Pratiques
+
+Des TP complets sont disponibles pour chaque module :
+
+- **[TP 1 : Big Data](./TP-01-BIG-DATA.md)** - Exploration des données brutes (1h30)
+- **[TP 2 : Data Science](./TP-02-DATA-SCIENCE.md)** - Analyse et visualisation (2h)
+- **[TP 3 : Machine Learning](./TP-03-MACHINE-LEARNING.md)** - Prédictions et biais (2h)
+
+📖 **Guide complet :** [GUIDE-TP.md](./GUIDE-TP.md)
+
 ## 🚀 Installation et lancement
 
 ```bash
