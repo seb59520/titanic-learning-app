@@ -44,7 +44,8 @@
   align-items: flex-end;
   height: 200px;
   gap: 1rem;
-  margin-bottom: 1rem;
+  margin-bottom: 2.5rem;
+  padding-bottom: 1rem;
 }
 
 .bar-item {
@@ -88,18 +89,20 @@
 }
 
 .bar-label {
-  margin-top: 0.5rem;
+  margin-top: 1.5rem;
   font-size: 0.85rem;
   text-align: center;
   color: #666;
   word-break: break-word;
   font-weight: bold;
   padding-top: 0.5rem;
+  position: relative;
+  top: 0.5rem;
 }
 
 .chart-x-axis {
   text-align: center;
-  margin-top: 1rem;
+  margin-top: 0.5rem;
   padding-top: 0.5rem;
   border-top: 1px solid #eee;
 }
@@ -108,6 +111,8 @@
   .bars {
     height: 150px;
     gap: 0.5rem;
+    margin-bottom: 2rem;
+    padding-bottom: 0.75rem;
   }
 
   .bar-value {
@@ -117,5 +122,6 @@
   .bar-label {
     font-size: 0.75rem;
     font-weight: bold;
+    margin-top: 1rem;
   }
 }
